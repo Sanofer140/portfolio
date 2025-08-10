@@ -1,0 +1,57 @@
+ul a{
+    text-decoration: none;
+}
+ul a{
+    padding: 25px ;
+}
+header{
+    background-color:rgba(38, 234, 143, 0.491);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,cursive;
+    font-size: large;
+}
+ul a{
+    color: rgb(0, 51, 255);
+}
+ul a{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    color: rgba(grey);
+}
+#home{
+    text-align: center;
+}
+#bio{
+    text-align: center;
+}
+#portfolio{
+    text-align: center;
+}
+#resume{
+    text-align: center;
+}
+
+ul{
+    text-align: center;}
+ol {
+    text-align: center;
+}    
+#contact{
+  background-image: linear-gradient(to right, rgba(199, 17, 190, 0), rgba(213, 66, 66, 0.755));
+}
+#web{
+  background-image: linear-gradient(to right, rgba(165, 18, 157, 0), rgb(236, 60, 221));
+}
+#portfolio{
+  background-image: linear-gradient(to right, rgba(185, 174, 184, 0.44), rgba(60, 253, 237, 0.812));
+}
+#profile{
+  background-image: linear-gradient(to right, rgba(147, 98, 98, 0.28), rgba(1, 0, 0, 0.81));
+}
+footer{
+    background-color: rgb(9, 163, 220);
+    color: aliceblue;
+    
+}
